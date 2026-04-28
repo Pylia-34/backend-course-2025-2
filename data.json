@@ -1,1 +1,137 @@
-[{"dt":"20220201","txt":"Офіційні резервні активи","txten":"Official reserve assets","id_api":"RES_OffReserveAssets","leveli":1,"parent":"Off_Reserve_Assets","freq":"M","tzep":"T071USD_7","value":29086.98},{"dt":"20220201","txt":"Резерви в іноземній валюті","txten":"Foreign currency reserves","id_api":"RES_ForCurrencyAssets","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","tzep":"T071USD_7","value":27462.36},{"dt":"20220201","txt":"Резервна позиція в МВФ","txten":"IMF reserve position","id_api":"RES_IMFResPosition","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","tzep":"T071USD_7","value":0.33},{"dt":"20220201","txt":"Спеціальні права запозичення","txten":"SDRs","id_api":"RES_SDRs","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","tzep":"T071USD_7","value":79.2},{"dt":"20220201","txt":"Золото","txten":"Gold","id_api":"RES_Gold","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","tzep":"T071USD_7","value":1545.09},{"dt":"20220201","txt":"Інші резервні активи","txten":"Other reserve assets","id_api":"RES_OthReserveAssets","leveli":2,"parent":"RES_OffReserveAssets","freq":"M","tzep":"T071USD_7","value":0}]
+[
+{ 
+"r030":12,"txt":"Алжирський динар","rate":0.33256,"cc":"DZD","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":36,"txt":"Австралійський долар","rate":31.5324,"cc":"AUD","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":50,"txt":"Така","rate":0.35896,"cc":"BDT","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":124,"txt":"Канадський долар","rate":32.234,"cc":"CAD","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":156,"txt":"Юань Женьміньбі","rate":6.4449,"cc":"CNY","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":203,"txt":"Чеська крона","rate":2.1126,"cc":"CZK","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":208,"txt":"Данська крона","rate":6.892,"cc":"DKK","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":344,"txt":"Гонконгівський долар","rate":5.6242,"cc":"HKD","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":348,"txt":"Форинт","rate":0.140846,"cc":"HUF","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":356,"txt":"Індійська рупія","rate":0.46617,"cc":"INR","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":360,"txt":"Рупія","rate":0.002556,"cc":"IDR","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":376,"txt":"Новий ізраїльський шекель","rate":14.7472,"cc":"ILS","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":392,"txt":"Єна","rate":0.27586,"cc":"JPY","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":398,"txt":"Теньге","rate":0.096107,"cc":"KZT","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":410,"txt":"Вона","rate":0.029809,"cc":"KRW","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":422,"txt":"Ліванський фунт","rate":0.000492,"cc":"LBP","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":458,"txt":"Малайзійський ринггіт","rate":11.1474,"cc":"MYR","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":484,"txt":"Мексиканське песо","rate":2.5262,"cc":"MXN","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":498,"txt":"Молдовський лей","rate":2.5498,"cc":"MDL","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":554,"txt":"Новозеландський долар","rate":25.8711,"cc":"NZD","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":578,"txt":"Норвезька крона","rate":4.7289,"cc":"NOK","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":682,"txt":"Саудівський ріял","rate":11.7507,"cc":"SAR","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":702,"txt":"Сінгапурський долар","rate":34.4782,"cc":"SGD","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":704,"txt":"Донг","rate":0.0016729,"cc":"VND","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":710,"txt":"Ренд","rate":2.649,"cc":"ZAR","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":752,"txt":"Шведська крона","rate":4.7439,"cc":"SEK","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":756,"txt":"Швейцарський франк","rate":55.7399,"cc":"CHF","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":764,"txt":"Бат","rate":1.35415,"cc":"THB","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":784,"txt":"Дирхам ОАЕ","rate":11.999,"cc":"AED","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":788,"txt":"Туніський динар","rate":15.2188,"cc":"TND","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":818,"txt":"Єгипетський фунт","rate":0.8342,"cc":"EGP","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":826,"txt":"Фунт стерлінгів","rate":59.3582,"cc":"GBP","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":840,"txt":"Долар США","rate":44.0735,"cc":"USD","exchangedate":"29.04.2026","special":"N"
+ }
+,{ 
+"r030":941,"txt":"Сербський динар","rate":0.43865,"cc":"RSD","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":944,"txt":"Азербайджанський манат","rate":25.9332,"cc":"AZN","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":946,"txt":"Румунський лей","rate":10.1105,"cc":"RON","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":949,"txt":"Турецька ліра","rate":0.9782,"cc":"TRY","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":960,"txt":"СПЗ (спеціальні права запозичення)","rate":60.3263,"cc":"XDR","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":978,"txt":"Євро","rate":51.4999,"cc":"EUR","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":981,"txt":"Ларі","rate":16.3836,"cc":"GEL","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":985,"txt":"Злотий","rate":12.1218,"cc":"PLN","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":959,"txt":"Золото","rate":201072.12,"cc":"XAU","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":961,"txt":"Срібло","rate":3183.02,"cc":"XAG","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":962,"txt":"Платина","rate":84949.03,"cc":"XPT","exchangedate":"29.04.2026","special":null
+ }
+,{ 
+"r030":964,"txt":"Паладій","rate":63445.13,"cc":"XPD","exchangedate":"29.04.2026","special":null
+ }
+]
